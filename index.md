@@ -30,6 +30,14 @@
                           <label class="form-check-label" for="exampleCheck1">Remember me</label>
                         </div>
                         <button type="submit" class="btn btn-info btn-block">Submit</button>
+						<center>or</center>
+						<center>
+						<a href id="LoginWithAmazon" >
+						<img border="0" alt="Login with Amazon"
+						src="https://images-na.ssl-images-amazon.com/images/G/01/lwa/btnLWA_gold_156x32.png"
+						width="156" height="32" />
+						</a>
+						</center>
                       </form>
                     <!-- form end -->
               	</div>
